@@ -2,6 +2,7 @@
 #include "ThreadController.h"
 /*
 	This is a more "complex" for of using Threads.
+  ismael
 	You can also inherit from Thread, and do your entire code on the class.
 
 	This allows you, to create for example:
