@@ -7,3 +7,5 @@ Esta Biblioteca ajuda a manter organizada e a facilitar o uso de múltiplas tare
 
 Por exemplo, eu uso pessoalmente para todos os meus projetos e coloco toda a aquisição e filtragem de sensores dentro dele, deixando o loop 
 principal, apenas para lógica e parte "legal". 
+
+By: <a href="https://github.com/ivanseidel/ArduinoThread">Ivan Seidel</a>
