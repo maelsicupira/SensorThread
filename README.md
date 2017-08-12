@@ -1,5 +1,5 @@
 # SensorThread
-Thread no arduino<br>
+Thread no arduino<br><br>
 O Arduino não suporta tarefas paralelas "REAL" (também conhecido como Threads), mas podemos usar esta biblioteca para melhorar nosso código 
 e agendar facilmente tarefas com tempo fixo (ou variável) entre execuções.
 
