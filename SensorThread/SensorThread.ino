@@ -3,7 +3,6 @@
 
 #include "TimerOne.h"
 
-// Create a new Class, called SensorThread, that inherits from Thread
 class SensorThread: public Thread
 {
 public:
